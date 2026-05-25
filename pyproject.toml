@@ -1,0 +1,11 @@
+[project]
+name = "job-search-resume-agent"
+version = "0.1.0"
+description = "AI job search and resume improvement agent with LangChain and CrewAI"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

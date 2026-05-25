@@ -1,0 +1,23 @@
+Jane Doe
+Software Engineer | jane.doe@email.com | github.com/janedoe
+
+SUMMARY
+Full-stack developer with 4 years building web applications. Experienced in Python,
+JavaScript, React, and REST APIs. Passionate about clean code and agile delivery.
+
+EXPERIENCE
+Software Engineer — TechCorp (2022–Present)
+- Built internal dashboards with React and FastAPI serving 500+ daily users
+- Reduced API latency by 30% through query optimization and Redis caching
+- Collaborated in Scrum teams; wrote unit tests with pytest
+
+Junior Developer — StartupXYZ (2020–2022)
+- Developed Node.js microservices integrated with PostgreSQL
+- Deployed services to AWS using Docker and GitHub Actions
+
+EDUCATION
+BSc Computer Science — State University (2020)
+
+SKILLS
+Python, JavaScript, TypeScript, React, Node.js, FastAPI, SQL, PostgreSQL, Redis,
+Docker, AWS, Git, Agile, REST APIs, pytest
