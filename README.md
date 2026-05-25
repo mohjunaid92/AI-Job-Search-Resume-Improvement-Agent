@@ -334,10 +334,9 @@ This project is licensed under the MIT License.
 ### Your Name
 
 GitHub:
-https://github.com/your-username
+https://github.com/mohjunaid92
 
-LinkedIn:
-https://linkedin.com/in/your-profile
+
 
 ---
 
